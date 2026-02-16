@@ -17,24 +17,20 @@ The objective was to transform raw vehicle statistics into an interactive dashbo
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Microsoft Power BI  
 - Power Query  
 - DAX (Data Analysis Expressions)  
 - Microsoft Excel  
 
----
-
-## 📊 Dashboard Features
+## Dashboard Features
 
 - KPI Cards (Total Vehicles, Two-Wheelers, Four-Wheelers, Commercial, Private)
 - Regional comparison charts
 - Vehicle type distribution charts
 - Interactive slicers
 - Supporting data table
-
----
 
 ## Key Insights
 
@@ -43,16 +39,12 @@ The objective was to transform raw vehicle statistics into an interactive dashbo
 - Private vehicles significantly outnumber commercial vehicles.
 - Commercial vehicles cluster in economically active regions.
 
----
-
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 <img width="1536" height="1024" alt="DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/859beb31-f8bf-4607-aaff-0cbf2b903a27" />
 
 
----
-
-## 💼 Author
+## Author
 
 **Shina Oyeleye**  
 Aspiring Data Analyst | Business Intelligence Enthusiast  
