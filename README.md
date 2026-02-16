@@ -47,7 +47,8 @@ The objective was to transform raw vehicle statistics into an interactive dashbo
 
 ## 📷 Dashboard Preview
 
-(Dashboard screenshot will be added here.)
+<img width="1536" height="1024" alt="DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/859beb31-f8bf-4607-aaff-0cbf2b903a27" />
+
 
 ---
 
