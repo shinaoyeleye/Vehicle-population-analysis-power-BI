@@ -5,8 +5,6 @@ This project analyzes regional vehicle population data to uncover transportation
 
 The objective was to transform raw vehicle statistics into an interactive dashboard that supports data-driven decision-making.
 
----
-
 ## Project Objectives
 
 - Identify regions with highest and lowest vehicle populations  
@@ -14,8 +12,6 @@ The objective was to transform raw vehicle statistics into an interactive dashbo
 - Compare two-wheelers vs four-wheelers  
 - Compare commercial vs private vehicles  
 - Identify regional mobility trends  
-
----
 
 ## Tools Used
 
